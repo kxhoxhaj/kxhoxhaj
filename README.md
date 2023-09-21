@@ -1,9 +1,3 @@
-<Error>
-<Code>AccessDenied</Code>
-<Message>Access Denied</Message>
-<RequestId>889ZQSQVZ43ZD4P8</RequestId>
-<HostId>F7811/sdrkgk/P4DHv0z8RdIlzJYyVehDTpcpo2IrSPs7JU2LkGsBpmLPCOKyjwNH/sC93RS8xo=</HostId>
-</Error>
 <div>
   <h1 align="center">Hi 👋, I'm Klevion Xhoxhaj</h1>
   <h3 align="center">A passionate frontend developer from Albania</h3>
