@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Hi 👋, I'm Klevion Xhoxhaj</h1>
-  <h3 align="center">A passionate frontend developer from Albania</h3>
+  <h3 align="center">A passionate Web Developer</h3>
   
   - 🌱 I’m currently learning **TypeScript and React**
   
